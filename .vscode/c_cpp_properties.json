@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/omen/vehicle_gen2_ys/devel/include/**",
+        "/home/omen/carla-ros-bridge/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/omen/carla-ros-bridge/catkin_ws/src/ros-bridge/pcl_recorder/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_amathutils_lib/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_image_geometry/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_image_proc/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_obstacle/src/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_apriltag/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_camera/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_control/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_conveyor/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_follow/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_location/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_map/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_msgs/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_plan/include/**",
+        "/home/omen/vehicle_gen2_ys/src/ys_ros_vcontrol/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,4 @@
+<launch>
+     <node name="ys_ros_control" pkg="ys_ros_control" type="ys_ros_control" output="screen"/>
+     <node name="showData" pkg="vehicle_control" type="vehicle_control" output="screen"/>
+</launch>
